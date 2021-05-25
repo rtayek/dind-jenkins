@@ -1,0 +1,4 @@
+FROM maven:3.3.3
+RUN ["find","-name","mvn"]
+RUN ["mvn","--version"]
+CMD bash
