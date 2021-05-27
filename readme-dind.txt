@@ -16,3 +16,7 @@ tls, tlscert, tlskey: Do not authenticate clients
 the above is for the daemons, not the client
 https://stackoverflow.com/questions/60513689/little-confusion-dealing-with-docker-desktops-daemon-json
 
+now getting: Error response from daemon: Ports are not available: listen tcp 0.0.0.0:50000: bind: Only one 
+usage of each socket address
+
+
